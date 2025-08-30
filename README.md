@@ -44,6 +44,11 @@ streamlit run app.py
 
 ```
 ---
+## 🚀 Live Demo
+
+Check out the deployed app here: [Breast Cancer Prediction App](https://breast-cancer-duy6acnihhgm5ywgmfxvjv.streamlit.app/)
+
+---
 ## 📂 Project Structure  
 
 📂 Breast-Cancer
