@@ -38,17 +38,19 @@ The project includes a **Streamlit app** for easy interaction:
 - The app predicts whether the tumor is **Benign, Malignant, or Error**  
 - Results are displayed with color-coded sections for better visualization  
 
-Run the app locally with:  
+## Run the app locally with:  
 ```bash
 streamlit run app.py
 
 ```
+---
 ## 📂 Project Structure  
+
 📂 Breast-Cancer
-├── app.py              # Streamlit web app  
-├── model.h5            # Trained ANN model  
-├── requirements.txt    # Dependencies  
-├── README.md           # Project Documentation  
+- ├── app.py              # Streamlit web app  
+- ├── model.h5            # Trained ANN model  
+- ├── requirements.txt    # Dependencies  
+- ├── README.md           # Project Documentation  
 ---
 ## ⚡ How to Use  
 
